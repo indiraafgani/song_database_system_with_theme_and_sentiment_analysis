@@ -38,5 +38,5 @@ These are some of the main features that can be accessed by the user:
     ```
 3. Run the program 
     ```bash 
-    Capstone Project 1.py
+    Song Database System with Theme and Sentiment Analysis - Indira Faisa Afgani.py
     ```
